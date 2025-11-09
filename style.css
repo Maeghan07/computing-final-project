@@ -1,0 +1,39 @@
+body{
+    background-color:rgb(180, 216, 236); 
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-9r6xtV-ZdXH461kSJ5SjLrqNCTL4ckxLw&s);
+    color: rgb(5, 58, 87);
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: inherit;
+    text-align: center;
+}
+h2{
+    color: rgb(45, 117, 180)}
+    text-align: center;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+
+
+p{ color: rgb(90, 147, 197);
+    background-color: azure;
+    text-align: center; 
+    }
+p:hover{
+    color: rgb(183, 221, 245);
+    background-color: rgb(2, 26, 48);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+    color: rgb(190, 215, 236);
+    background-color: rgb(3, 25, 45);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:hover{
+    color: rgb(2, 32, 95);
+    background-color: rgb(170, 210, 249);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    border: 5px solid rgb(2, 26, 48);
+    border-radius: 15px;
+    box-shadow: 4px 4px 15px rgb(90, 147, 197);
+}
